@@ -7,13 +7,23 @@
 ```powershell
 .
 ├── 16340216_王健豪.pdf
-├── fisco		链端
-├── nodejs-sdk	后端
-├── README.md
-└── vue-demo	前端
+├── fisco			链端
+├── nodejs-sdk		后端
+├── README.md		
+└── vue-demo		前端
 
-3 directories, 2 files
+3 directories, 3 files
 ```
+
+### 视频地址
+
+[演示视频](https://www.bilibili.com/video/av82230276/)
+
+```
+# 因为视频太大，放在bilibili上了
+```
+
+
 
 ### 重要文件
 
