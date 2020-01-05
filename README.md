@@ -29,6 +29,11 @@ SupplyChain-BlockChainApp/vue-demo/src/router/index.js
 ### 启动项目
 
 ```powershell
+# 一些配置
+# 在SupplyChain-BlockChainApp/nodejs-sdk/packages/api/common//configuration.js 
+# 44行语句，修改为自己合适的json地址
+Configuration.config = '/home/wjh/nodejs-sdk/packages/cli/conf/config.json';
+
 # 启动链端
 ./ SupplyChain-BlockChainApp/fisco/nodes/127.0.0.1/start_all.sh
 # 启动后端
